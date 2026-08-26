@@ -15,7 +15,7 @@ This repo documents the full journey: **raw data → data modeling → relations
 | Usability | Not analysis-ready | Plug-and-play for DAX measures, visuals & reports |
 
 📸 See [`docs/images/`](docs/images) for the entity-relationship diagrams of both states.
-
+ 
 ---
 
 ## 🧱 Final Star Schema
