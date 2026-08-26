@@ -66,10 +66,10 @@ This design follows Kimball-style dimensional modeling: fact tables at the grain
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Poojitha-0508/DataLoom.git
-   cd DataLoom
+   git clone https://github.com/Sravanthi-Kanisetti/DataWeave.git
+   cd DataWeave
    ```
-2. Open `powerbi/project_datamodel.pbix` in **Power BI Desktop**.
+2. Open `powerbi/data_modelling_project.pbix` in **Power BI Desktop**.
 3. If prompted, update the data source path to point to `data/dataset.xlsx` in your local clone.
 4. Explore the **Model view** to see the star schema, or the **Report view** for the dashboards.
 
